@@ -29,7 +29,7 @@ The health insurance company wants to understands how the marketing campaigns ar
 
 </details>
 
-[**View Tableau Dashboard**](link here)
+[**View Tableau Dashboard**](https://public.tableau.com/views/HealthCampaign/Marketing?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -51,10 +51,10 @@ The health insurance company wants to understands how the marketing campaigns ar
 >
 > <table width="100%">
 >   <tr>
->     <td align="center" width="50%">
+>     <td align="center" width="100%">
 >       <img src="images/Marketingmetrics.png" width="100%"><br>
 >     </td>
->     <td align="center" width="50%">
+>     <td align="center" width="100%">
 >       <img src="images/MarketingScatter.png" width="100%"><br>
 >     </td>
 >   </tr>
@@ -65,10 +65,9 @@ The health insurance company wants to understands how the marketing campaigns ar
 > </table>
 >
 
-
+- Overall campaign performance remains efficient with an average **CPC of \$0.07** and **Cost per Signup of \$3.68**. 
 - **Health for All** and **Benefit Updates** campaigns have the strongest customer engagement with the highest click through rate (CTR) (~25% and ~22%). High CTR indicates compelling messaging and effective targeting that resonates well with the audience.
 - **Healthy Living** campaigns  with 0.10 CTR drive the **largest share of total signups (~23%)** followed closely by **Health for All** and **Coverage Matters** campaigns (each ~22%). This suggests that CTR reflects initital engagement but conversion success also depends heavily on customer targeting and camapign relevance.
-- Overall campaign performance remains efficient with an average **CPC of \$0.07** and **Cost per Signup of \$3.68**. 
 - **Golden Years Security** campaigns stand out as extreme outliers with the **highest CPC(\$0.68)** and **Cost per Signup (\$177)**. The scatter plot (Fig. 1b) position this category in the **high cost and high claim** quadrant suggesting inefficient acquisition and high downstream claims risk. 
 - **Compare Health Coverage** generated the highest average claim amount despite realtively low acquisition costs. While cost efficient on the front end, this campaign requires further analysis to determine whether savings on acquisitions will be outperformed by higher long term claims exposure.
 - **Covid awareness** type of campaigns has low signup contribution with high cost per click \$0.11. 
@@ -86,9 +85,9 @@ The health insurance company wants to understands how the marketing campaigns ar
  **Recommendations**
  - **Scale High Performing, Low Risk Campaigns**\
 	Prortized increased investment in\
- 		- **Health for All** (high engagment and high conversion)
- 		- **Healthy Living** (highest signup volume)
- 		- **Tailored Health Plans** (cost efficient and low claims risk)
+ 			- **Health for All** (high engagment and high conversion)
+ 			- **Healthy Living** (highest signup volume)
+ 			- **Tailored Health Plans** (cost efficient and low claims risk)
  - **Review or  Discontinue High Cost or High Risk Campaigns** 
 	- Reassess **Golden Years Security** camapaigns due to poor efficiency and high risk profile. Conisder pausing or shifting budget away from underperforming campaign themes like COVID awareness, product promotions for this category.
 	- **Compare Health Coverage** may be attracting higher risk customer profiles. Further full claims vs acquisition analysis required before any scaling to ensure long term profitability.
@@ -171,7 +170,7 @@ The health insurance company wants to understands how the marketing campaigns ar
 
 - The **Sankey diagram (fig. 3b)** shows the customer journey flow from initial marketing channel through campaign category to final plan selection. It highlights that **Platinum plan** adoption remains critically low. Social and Referral channels through four campaign categories (**Healthy Living, Health for All, Coverage Matters and Compare Health Coverage**) leads to Platinum plan adoptions.
 
-Recommendations
+**Recommendations**
 - **Diversity Acqusition Channels**\
 	Reduce heavy reliance on social and referral channels by expnading investments in search marketing and exploring additional channels. 
 - **Adopt Regional Strategies**\ 
