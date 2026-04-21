@@ -142,7 +142,7 @@ The health insurance company wants to understands how the marketing campaigns ar
 
 ## 3. Customer Insights
 
-**Overall Claims Behavior**:
+**Overall Customers Behavior**:
 - **Total Signup**:16,338
 - **Cost per Signup**: \$3.68
 - **Signup Rate**: 0.18%
