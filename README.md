@@ -51,10 +51,10 @@ The health insurance company wants to understands how the marketing campaigns ar
 >
 > <table width="100%">
 >   <tr>
->     <td align="center" width="100%">
+>     <td align="center" width="50%">
 >       <img src="images/Marketingmetrics.png" width="100%"><br>
 >     </td>
->     <td align="center" width="100%">
+>     <td align="center" width="50%">
 >       <img src="images/MarketingScatter.png" width="100%"><br>
 >     </td>
 >   </tr>
