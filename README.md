@@ -172,10 +172,10 @@ The health insurance company wants to understands how the marketing campaigns ar
 
 **Recommendations**
 - **Diversity Acqusition Channels**\
-	Reduce heavy reliance on social and referral channels by expnading investments in search marketing and exploring additional channels. 
-- **Adopt Regional Strategies**\ 
-	Analyze state level differences in claims behavior and adjust pricing or coverage options or targeted messaging regionally where needed
+Reduce heavy reliance on social and referral channels by expnading investments in search marketing and exploring additional channels. 
+- **Adopt Regional Strategies**\
+Analyze state level differences in claims behavior and adjust pricing or coverage options or targeted messaging regionally where needed
 - **Drive Higher-Tier Plan Adoption**\
-	Double down on the limited channels and campaign categories that successfully contributes to Platinum enrollments. 
-- **Shift from volume driven  to value driven funnel**\
-	Prioritize targeting and creative strategies that attract lower risk profiles and encourage selection of higher coverage plans like Gold and Platinum to improve overall profitability.
+Double down on the limited channels and campaign categories that successfully contributes to Platinum enrollments. 
+- **Shift from volume driven to value driven funnel**\
+Prioritize targeting and creative strategies that attract lower risk profiles and encourage selection of higher coverage plans like Gold and Platinum to improve overall profitability.
