@@ -83,11 +83,11 @@ The health insurance company wants to understands how the marketing campaigns ar
 
 
  **Recommendations**
- - **Scale High Performing, Low Risk Campaigns**\
-	Prortized increased investment in\
- 			- **Health for All** (high engagment and high conversion)
- 			- **Healthy Living** (highest signup volume)
- 			- **Tailored Health Plans** (cost efficient and low claims risk)
+ - **Scale High Performing, Low Risk Campaigns**
+	- Priortized increased investment in
+ 		- **Health for All** (high engagment and high conversion)
+		- **Healthy Living** (highest signup volume)
+ 		- **Tailored Health Plans** (cost efficient and low claims risk)
  - **Review or  Discontinue High Cost or High Risk Campaigns** 
 	- Reassess **Golden Years Security** camapaigns due to poor efficiency and high risk profile. Conisder pausing or shifting budget away from underperforming campaign themes like COVID awareness, product promotions for this category.
 	- **Compare Health Coverage** may be attracting higher risk customer profiles. Further full claims vs acquisition analysis required before any scaling to ensure long term profitability.
